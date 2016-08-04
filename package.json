@@ -1,0 +1,15 @@
+{
+  "name": "check_redirect_by_user_agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CheckRedirectByUserAgent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jcastro",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "request": "^2.74.0"
+  }
+}
