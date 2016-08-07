@@ -17,16 +17,22 @@ function readUserAgentsFromFile(filename){
 	var userAgentsList = [];
 	var fileContents = fs.readFileSync(filename);
 	var lines = fileContents.toString().split('\n');
+	var partsLine;
 	var line;
 	var i;
 	var linesLength = lines.length;
 
+
 	for (i = 0; i < linesLength; i++) {
-		line = lines[i].toString().split('#');
-		userAgentsList.push({
-							Device: line[0], 
-							UserAgent: line[1].replace('\r', '')
-		});
+		line = lines[i].toString();
+		if (!line.includes('--'))
+		{
+			partsLine = lines[i].toString().split('#');
+			userAgentsList.push({
+							Device: partsLine[0], 
+							UserAgent: partsLine[1].replace('\r', '')
+			});
+		}
 	}
 	return userAgentsList;
 };
