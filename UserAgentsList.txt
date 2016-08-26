@@ -7,27 +7,44 @@ Apple Iphone 5S#Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWeb
 Apple Iphone 6#Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25
 Apple Iphone 6 Plus#Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4
 bq Aquaris 5#Mozilla/5.0 (Linux; U; Android 4.2.1; es-es; bq Aquaris 5 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+bq Aquaris A4.5#Mozilla/5.0 (Linux; U; Android 4.2.1; es-es; bq Aquaris 5 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+bq Aquaris E4#Mozilla/5.0 (Linux; Android 4.4; Aquaris E4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile Safari/537.36
 bq Aquaris E4.5#Mozilla/5.0 (Linux; Android 4.4; Aquaris E4.5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
 bq Aquaris E5#Mozilla/5.0 (Linux; Android 4.4; Aquaris E5 HD Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.131 Mobile Safari/537.36
+bq Aquaris E5 FHD#Mozilla/5.0 (Linux; Android 4.4.2; Aquaris E5 FHD Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile Safari/537.36
+bq Aquaris E6#Mozilla/5.0 (Linux; Android 4.4; Aquaris E6 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36
 bq Aquaris M5#Mozilla/5.0 (Linux; Android 5.1; Aquaris M5.5 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobile Safari/537.36
 bq Aquaris M5.5#Mozilla/5.0 (Linux; Android 5.1; Aquaris M5.5 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobile Safari/537.36
 bq Aquaris X5#Mozilla/5.0 (Linux; U; Android 4.2.1; es-es; bq Aquaris 5 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-bq Edison 3 Edison 3#Mozilla/5.0 (Linux; Android 4.4; Edison 3 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Safari/537.36
+--bq Edison 3 Edison 3#Mozilla/5.0 (Linux; Android 4.4; Edison 3 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Safari/537.36
 Feiteng GT-i9300#GT-I9300 Linux/3.0.13 Android 4.1 Release/01.04.2013 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0;
 Google Nexus 4#Mozilla/5.0 (Linux; U; Android 4.2; xx-xx; Nexus 4 Build/JOP40C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Google Nexus 5#Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
+Huawei Ascend G630#Mozilla/5.0 (Linux; U; Android 4.3; xx-xx; G630-U20 Build/HuaweiG630-U20C00B112) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30
 Huawei Ascend G7#Mozilla/5.0 (Linux; Android 4.4; G7-L01 Build/HuaweiG7-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+Huawei G Play Mini#Mozilla/5.0 (Linux; Android 4.4; CHC-U01 Build/HuaweiCHC-U01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
+Huawei G7#Mozilla/5.0 (Linux; Android 4.4; G7-L01 Build/HuaweiG7-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
 Huawei G8#Mozilla/5.0 (Linux; Android 5.1; HUAWEI RIO-L01 Build/HuaweiRIO-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36
 Huawei P8#Mozilla/5.0 (Linux; Android 5.0; HUAWEI GRA-L09 Build/HUAWEIGRA-L09) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36
 Huawei P8 Lite#Mozilla/5.0 (Linux; Android 4.4; ALE-CL00 Build/HuaweiALE-CL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36
+Huawei P9#Mozilla/5.0 (Linux; Android 6.0; EVA-L09 Build/HUAWEIEVA-L09; xx-xx) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36
 Huawei Y635-L01#Mozilla/5.0 (Linux; Android 4.4; Y635-L01 Build/HuaweiY635-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+HTC Desire 820#Mozilla/5.0 (Linux; Android 4.4; HTC Desire 820 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile Safari/537.36
+--Lg G Pad 8.3#Mozilla/5.0 (Linux; U; Android 4.2; xx-xx; LG-V500 Build/JDQ39B) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Safari/534.30
+Lg G2#Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; LG-D802 Build/JDQ39B) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.16
 Lg G3#Mozilla/5.0 (Linux; U; Android 4.4.2; en-ca; LG-D852 Build/KVT49L.D85210b) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36
+Lg G3 Mini#Mozilla/5.0 (Linux; U; Android 4.4.2; en-ca; LG-D852 Build/KVT49L.D85210b) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36
 Lg G4#Mozilla/5.0 (Linux; Android 5.1; LG-H815 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
 Motorola Moto G#Mozilla/5.0 (Linux; Android 4.4.2; XT1033 Build/KXB20.25-1.31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.136 Mobile Safari/537.36
 Motorola Moto G3#Mozilla/5.0 (Linux; Android 5.1; MotoG3 Build/LPI23.72-33) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36
+--Nokia Lumia 635#Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; NOKIA; Lumia 635) like Gecko
 Nokia Lumia 950#Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586
+Samsung Ace Style#Mozilla/5.0 (Linux; Android 4.4; SM-G357FZ Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+Samsung Galaxy Alpha#Mozilla/5.0 (Linux; Android 4.4; xx-xx; SAMSUNG SM-G850F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36
+Samsung Galaxy Core#Mozilla/5.0 (Linux; U; Android 4.1; xx-xx; GT-I8260 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Samsung Galaxy Core II#Mozilla/5.0 (Linux; Android 4.4.4; SM-G360G Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
 Samsung Galaxy Core Prime#Mozilla/5.0 (Linux; U; Android 4.4.4; en-us; SM-G360H Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/9.9.2.467 U3/0.8.0 Mobile Safari/534.30
+Samsung Galaxy Express 2#Mozilla/5.0 (Linux; U; Android 4.2; xx-xx; SM-G3815 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Samsung Galaxy Grand 2#Mozilla/5.0 (Linux; Android 4.2.2; GT-I9082 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 Samsung Galaxy Grand Neo#Mozilla/5.0 (Linux; Android 4.2.2; GT-I9082 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 Samsung Galaxy Gran Prime#Mozilla/5.0 (Linux; Android 4.4.4; SM-G530H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.107 Mobile Safari/537.36 OPR/29.0.1809.92697
@@ -40,6 +57,7 @@ Samsung Galaxy Note 2#Mozilla/5.0 (Linux; U; Android 4.1; xx-xx; GT-N7100 Build/
 Samsung Galaxy Note 3#Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Samsung Galaxy Note 4#Mozilla/5.0 (Linux; Android 5.0.1; SM-N910V Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
 Samsung Galaxy S3 Neo+#Mozilla/5.0 (Linux; Android 4.4; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+Samsung Galaxy S3 Mini#Mozilla/5.0 (Linux; U; Android 4.0; xx-xx; GT-I8190 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Samsung Galaxy S4#Mozilla/5.0 (Linux; Android 4.2.2; nl-nl; SAMSUNG GT-I9505 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
 Samsung Galaxy S4 Mini#Mozilla/5.0 (Linux; Android 4.2.2; nl-nl; SAMSUNG GT-I9195/I9195XXUAMH2 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
 Samsung Galaxy S5#Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG SM-G900T Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36
@@ -49,15 +67,21 @@ Samsung Galaxy S6 Edge#Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X)
 Samsung Galaxy S6 Edge Plus#Mozilla/5.0 (Linux; Android 5.1.1; SM-G928X Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36
 Samsung Galaxy S7#Mozilla/5.0 (Linux; Android 6.0; SAMSUNG SM-G930F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36
 Samsung Galaxy S7 Edge#Mozilla/5.0 (Linux; Android 6.0; SAMSUNG SM-G935F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36
-Samsung Galaxy tab A 9.7#Mozilla/5.0 (Linux; Android 5.0; SM-T550) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Safari/537.3
-Samsung Galaxy Tab 3 10.1 3G#Mozilla/5.0 (Linux; U; Android 4.2; xx-xx; GT-P5200 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-Samsung SM-T110 Galaxy Tab 3 Lite#Mozilla/5.0 (Linux; Android 4.2.2; SM-T110 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36
-Samsung Galaxy Tab 4 10.1#Mozilla/5.0 (Linux; Android 4.4; SM-T530 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36
+--Samsung Galaxy tab A 9.7#Mozilla/5.0 (Linux; Android 5.0; SM-T550) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Safari/537.3
+--Samsung Galaxy Tab 3 10.1 3G#Mozilla/5.0 (Linux; U; Android 4.2; xx-xx; GT-P5200 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+--Samsung SM-T110 Galaxy Tab 3 Lite#Mozilla/5.0 (Linux; Android 4.2.2; SM-T110 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36
+--Samsung Galaxy Tab 4 10.1#Mozilla/5.0 (Linux; Android 4.4; SM-T530 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36
 Samsung Trend Plus#Mozilla/5.0 (Linux; U; Android 4.2; xx-xx; SAMSUNG GT-S7580 Build/JDQ39) AppleWebKit/540.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/540.30
 SonyEricsson Xperia Z#Mozilla/5.0 (Linux; U; Android 4.1; xx-xx; SonyEricssonC6603 Build/10.1.A.0.182) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Sony Xperia E3#Mozilla/5.0 (Linux; Android 4.4; D2203 Build/18.4.C.2.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
 Sony Xperia M2#Mozilla/5.0 (Linux; Android 4.3; D2303 Build/18.0.C.1.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36
+Sony Xperia M2 Aqua#Mozilla/5.0 (Linux; Android 4.4.2; D2403 Build/18.3.C.0.37) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36
 Sony Xperia M4 Aqua#Mozilla/5.0 (Linux; Android 5.0; E2303 Build/26.1.A.1.100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36
 Sony Xperia T3#Mozilla/5.0 (Linux; Android 4.4; D5103 Build/18.1.A.0.17) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
 Sony Xperia Z1#Mozilla/5.0 (Linux; Android 4.3; C6903 Build/14.2.A.1.136) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 Sony Xperia Z2#Mozilla/5.0 (Linux; U; Android 4.4; xx-xx; D6503 Build/17.1.A.0.289) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Sony Xperia Z3#Mozilla/5.0 (Linux; Android 4.4; D6603 Build/23.0.A.2.93) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36
+Sony Xperia Z3 Compact#Mozilla/5.0 (Linux; Android 4.4; D5803 Build/23.0.A.2.105) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Mobile Safari/537.36
+Sony Xperia Z5#Mozilla/5.0 (Linux; Android 5.1; E6603 Build/32.0.A.5.12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+Vodafone Smart Prime 6#Mozilla/5.0 (Linux; Android 5.0; VF-895N Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.92 Mobile Safari/537.36
+ZTE Blade L3#Mozilla/5.0 (Linux; Android 4.4; Blade L3 Plus Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
